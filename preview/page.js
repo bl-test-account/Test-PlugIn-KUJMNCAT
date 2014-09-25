@@ -14,3 +14,4 @@ $('#container').on('click', function() {
   // Open the show page by calling BL.displayApp(APP.appId).
   BL.displayApp(APP.appId);
 });
+new
